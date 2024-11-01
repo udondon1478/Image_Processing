@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/x22004xx/src/imgProc/第6回/01/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.7.0_4/include/opencv4 -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/GS.dir/06_01_GS_x22004.cpp.o -c /Users/x22004xx/src/imgProc/第6回/01/06_01_GS_x22004.cpp",
+  "file": "/Users/x22004xx/src/imgProc/第6回/01/06_01_GS_x22004.cpp",
+  "output": "CMakeFiles/GS.dir/06_01_GS_x22004.cpp.o"
+}
+]

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/x22004xx/src/imgProc/第15回/02/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.8.1_5/include/opencv4 -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/02.dir/final2_x22004.cpp.o -c /Users/x22004xx/src/imgProc/第15回/02/final2_x22004.cpp",
+  "file": "/Users/x22004xx/src/imgProc/第15回/02/final2_x22004.cpp",
+  "output": "CMakeFiles/02.dir/final2_x22004.cpp.o"
+}
+]

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/x22004xx/src/imgProc/第15回/04/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.8.1_5/include/opencv4 -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/04.dir/final4_x22004_copy.cpp.o -c \"/Users/x22004xx/src/imgProc/第15回/04/final4_x22004 copy.cpp\"",
+  "file": "/Users/x22004xx/src/imgProc/第15回/04/final4_x22004 copy.cpp",
+  "output": "CMakeFiles/04.dir/final4_x22004_copy.cpp.o"
+},
+{
+  "directory": "/Users/x22004xx/src/imgProc/第15回/04/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.8.1_5/include/opencv4 -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/04.dir/final4_x22004.cpp.o -c /Users/x22004xx/src/imgProc/第15回/04/final4_x22004.cpp",
+  "file": "/Users/x22004xx/src/imgProc/第15回/04/final4_x22004.cpp",
+  "output": "CMakeFiles/04.dir/final4_x22004.cpp.o"
+}
+]

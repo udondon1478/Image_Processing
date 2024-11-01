@@ -1,0 +1,3 @@
+/Users/x22004xx/src/imgProc/第1回/face_x22004/build/CMakeFiles/01_01_face_x22004.jpg.dir
+/Users/x22004xx/src/imgProc/第1回/face_x22004/build/CMakeFiles/edit_cache.dir
+/Users/x22004xx/src/imgProc/第1回/face_x22004/build/CMakeFiles/rebuild_cache.dir

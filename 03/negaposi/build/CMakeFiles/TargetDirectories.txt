@@ -1,0 +1,5 @@
+/Users/x22004xx/src/imgProc/第三回/negaposi/build/CMakeFiles/negaposi.dir
+/Users/x22004xx/src/imgProc/第三回/negaposi/build/CMakeFiles/package.dir
+/Users/x22004xx/src/imgProc/第三回/negaposi/build/CMakeFiles/package_source.dir
+/Users/x22004xx/src/imgProc/第三回/negaposi/build/CMakeFiles/edit_cache.dir
+/Users/x22004xx/src/imgProc/第三回/negaposi/build/CMakeFiles/rebuild_cache.dir

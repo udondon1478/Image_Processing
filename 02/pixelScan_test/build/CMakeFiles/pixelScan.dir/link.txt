@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpixelScan.a CMakeFiles/pixelScan.dir/pixelScan.cpp.o
+/usr/bin/ranlib libpixelScan.a

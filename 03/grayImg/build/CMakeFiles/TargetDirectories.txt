@@ -1,0 +1,5 @@
+/Users/x22004xx/src/imgProc/第三回/grayImg/build/CMakeFiles/grayImg.dir
+/Users/x22004xx/src/imgProc/第三回/grayImg/build/CMakeFiles/package.dir
+/Users/x22004xx/src/imgProc/第三回/grayImg/build/CMakeFiles/package_source.dir
+/Users/x22004xx/src/imgProc/第三回/grayImg/build/CMakeFiles/edit_cache.dir
+/Users/x22004xx/src/imgProc/第三回/grayImg/build/CMakeFiles/rebuild_cache.dir

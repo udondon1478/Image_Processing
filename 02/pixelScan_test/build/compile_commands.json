@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/x22004xx/src/imgProc/第2回/pixelScan_test/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/pixelScan.dir/pixelScan.cpp.o -c /Users/x22004xx/src/imgProc/第2回/pixelScan_test/pixelScan.cpp",
+  "file": "/Users/x22004xx/src/imgProc/第2回/pixelScan_test/pixelScan.cpp",
+  "output": "CMakeFiles/pixelScan.dir/pixelScan.cpp.o"
+}
+]

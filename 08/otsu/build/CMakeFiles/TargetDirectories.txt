@@ -1,0 +1,5 @@
+/Users/x22004xx/src/imgProc/第8回/otsu/build/CMakeFiles/otsu.dir
+/Users/x22004xx/src/imgProc/第8回/otsu/build/CMakeFiles/package.dir
+/Users/x22004xx/src/imgProc/第8回/otsu/build/CMakeFiles/package_source.dir
+/Users/x22004xx/src/imgProc/第8回/otsu/build/CMakeFiles/edit_cache.dir
+/Users/x22004xx/src/imgProc/第8回/otsu/build/CMakeFiles/rebuild_cache.dir
